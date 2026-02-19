@@ -13,6 +13,18 @@ This is a colletion of Jupyter Notebooks used for a workshop in collaboration wi
 
 Note that in previous years, another project was used as training material: https://github.com/hibernator11/workshop-notebooks-scotland
 
+## Examples provided
+- Authors from the National Library of France
+- Authors related to the movement Spanish Golden Age from the Biblioteca Virtual Miguel de Cervantes
+- Artists from Museo el Prado
+
+All of the retrieve the data using a SPARQL query and store the data in a JSON file.
+
+### Tasks
+
+1.- Review the notebooks provided. Check how the SPARQL queries can be executed and the data retrieved. You can also try using https://query.wikidata.org
+2.- Using the code provided, would you be able to create a new notebook and retrieve 100 artworks from El Prado? Please, note that you will have to use the property wdt:P8905.
+
 ### Licence
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />Content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</a>.
 
