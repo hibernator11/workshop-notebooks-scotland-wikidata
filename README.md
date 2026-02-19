@@ -19,6 +19,9 @@ Note that in previous years, another project was used as training material: http
 
 Please, note that the datasets used in this project have separate licences.
 
+### Acknowledgments
+This work was possible thanks to many researchers, labbers, librarians and initiatives from around the world. First of all, I would like to thank Milena Dobreva for inviting me to give this workshop. This work would not have been possible without the help and inspiration of the [International GLAM Labs Community](glamlabs.io), the [Collections as data](https://collectionsasdata.github.io/) initiative, the [National Library of Scotland](https://data.nls.uk/), the [GLAM Workbench](https://glam-workbench.net/), [DARIAH-EU](https://www.dariah.eu/) and [Europeana Research](https://pro.europeana.eu/page/research).
+
 ### References
 - https://data.nls.uk/projects/the-national-librarians-research-fellowship-in-digital-scholarship-2022-23/
 - https://glam-workbench.net/
