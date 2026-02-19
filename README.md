@@ -45,7 +45,5 @@ This work was possible thanks to many researchers, labbers, librarians and initi
 - https://github.com/hibernator11/notebook-EADH-2021-workshop
 - Candela, G., Chambers, S., & Sherratt, T. (2023). An approach to assess the quality of Jupyter projects published by GLAM institutions. Journal of the Association for Information Science and Technology, 74(13), 1550–1564. https://doi.org/10.1002/asi.24835
 - Candela, G. (2023). Towards a semantic approach in GLAM Labs: The case of the Data Foundry at the National Library of Scotland. Journal of Information Science. https://doi.org/10.1177/01655515231174386
-- Candela, G. et al. (2018). Migration of a library catalogue into RDA linked open data. Semantic Web 9(4): 481-491. https://doi.org/10.3233/SW-170274
-- Candela, G. et al. (2022). Reusing digital collections from GLAM institutions. Journal of Information Science. 48(2): 251-267. https://doi.org/10.1177/0165551520950246
 - Candela, G., Gabriëls, N., Chambers, S., Dobreva, M., Ames, S., Ferriter, M., Fitzgerald, N., Harbo, V., Hofmann, K., Holownia, O., Irollo, A., Mahey, M., Manchester, E., Pham, T.-A., Potter, A., & Van Keer, E. (2023). A checklist to publish collections as data in GLAM institutions. Global Knowledge, Memory and Communication. Advance online publication. https://doi.org/10.1108/GKMC-06-2023-0195
 - https://github.com/hibernator11/hdh-compartir-pantalla-2023
