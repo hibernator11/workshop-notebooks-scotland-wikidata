@@ -14,11 +14,12 @@ This is a colletion of Jupyter Notebooks used for a workshop in collaboration wi
 Note that in previous years, another project was used as training material: https://github.com/hibernator11/workshop-notebooks-scotland
 
 ## Examples provided
-- Authors from the National Library of France
-- Authors related to the movement Spanish Golden Age from the Biblioteca Virtual Miguel de Cervantes
-- Artists from Museo el Prado
+- Hello World - [HelloWorld.ipynb](notebooks/HelloWorld.ipynb)
+- Authors from the National Library of France - [wikidata-bnf-example.ipynb](notebooks/wikidata-bnf-example.ipynb)
+- Authors related to the movement Spanish Golden Age from the Biblioteca Virtual Miguel de Cervantes - [wikidata-bnf-example.ipynb](notebooks/wikidata-bvmc-example.ipynb)
+- Artists from Museo el Prado - [wikidata-bnf-example.ipynb](notebooks/wikidata-prado-example.ipynb)
 
-All of the retrieve the data using a SPARQL query and store the data in a JSON file.
+All of them retrieve the data using a SPARQL query and store the data in a JSON file.
 
 ### Tasks
 
