@@ -21,22 +21,22 @@ Note that in previous years, another project was used as training material: http
 
 All of them retrieve the data using a SPARQL query and store the data in a JSON file.
 
-### Tasks
+## Tasks
 
 1. Review the notebooks provided. Check how the SPARQL queries can be executed and the data retrieved. You can also try using https://query.wikidata.org
 2. Using the code provided, would you be able to create a new notebook and retrieve 100 artworks from El Prado? Please, note that you will have to use the property wdt:P8905.
 3. Explore new SPARQL queries
 4. Try to create some notes as a documentation of the process 
 
-### Licence
+## Licence
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />Content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</a>.
 
 Please, note that the datasets used in this project have separate licences.
 
-### Acknowledgments
-This work was possible thanks to many researchers, labbers, librarians and initiatives from around the world. First of all, I would like to thank Milena Dobreva for inviting me to give this workshop. This work would not have been possible without the help and inspiration of the [International GLAM Labs Community](glamlabs.io), the [Collections as data](https://collectionsasdata.github.io/) initiative, the [National Library of Scotland](https://data.nls.uk/), the [GLAM Workbench](https://glam-workbench.net/), [DARIAH-EU](https://www.dariah.eu/) and [Europeana Research](https://pro.europeana.eu/page/research).
+## Acknowledgments
+This work was possible thanks to many researchers, labbers, librarians and initiatives from around the world. First of all, I would like to thank Milena Dobreva for inviting me to give this workshop. This work would not have been possible without the help and inspiration of the [International GLAM Labs Community](glamlabs.io), the [Collections as data](https://collectionsasdata.github.io/) initiative, the [National Library of Scotland](https://data.nls.uk/), [Wikimedia Spain](https://wikimedia.es/), the [GLAM Workbench](https://glam-workbench.net/), [DARIAH-EU](https://www.dariah.eu/) and [Europeana Research](https://pro.europeana.eu/page/research).
 
-### References
+## References
 - https://data.nls.uk/projects/the-national-librarians-research-fellowship-in-digital-scholarship-2022-23/
 - https://glam-workbench.net/
 - https://github.com/hibernator11/notebook-EADH-2021-workshop
