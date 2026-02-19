@@ -4,6 +4,8 @@
 
 This is a colletion of Jupyter Notebooks used for a workshop in collaboration with the [University of Strathclyde, MSc Information and Library Studies, Library Technology and Systems](https://www.strath.ac.uk/courses/postgraduatetaught/informationlibrarystudies).
 
+These examples explore the extraction of Collections as data from Wikidata according to different topics and institutions.
+
 <img width="30%" src="https://www.strath.ac.uk/media/1newwebsite/webteam/logos/crest-jubilee-390x60.svg">
 
 ## Authors
@@ -15,9 +17,9 @@ Note that in previous years, another project was used as training material: http
 
 ## Examples provided
 - Hello World - [HelloWorld.ipynb](notebooks/HelloWorld.ipynb)
-- Authors from the National Library of France - [wikidata-bnf-example.ipynb](notebooks/wikidata-bnf-example.ipynb)
-- Authors related to the movement Spanish Golden Age from the Biblioteca Virtual Miguel de Cervantes - [wikidata-bnf-example.ipynb](notebooks/wikidata-bvmc-example.ipynb)
-- Artists from Museo el Prado - [wikidata-bnf-example.ipynb](notebooks/wikidata-prado-example.ipynb)
+- Extracting authors from the National Library of France - [wikidata-bnf-example.ipynb](notebooks/wikidata-bnf-example.ipynb)
+- Extracting authors related to the movement Spanish Golden Age from the Biblioteca Virtual Miguel de Cervantes - [wikidata-bnf-example.ipynb](notebooks/wikidata-bvmc-example.ipynb)
+- Extracting artists from Museo el Prado - [wikidata-bnf-example.ipynb](notebooks/wikidata-prado-example.ipynb)
 
 All of them retrieve the data using a SPARQL query and store the data in a JSON file.
 
