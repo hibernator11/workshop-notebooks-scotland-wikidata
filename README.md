@@ -26,7 +26,7 @@ All of them retrieve the data using a SPARQL query and store the data in a JSON 
 ## Tasks
 
 1. Review the notebooks provided. Check how the SPARQL queries can be executed and the data retrieved. You can also try using https://query.wikidata.org
-2. Using the code provided, would you be able to create a new notebook and retrieve 100 artworks from El Prado? Please, note that you will have to use the property wdt:P8905.
+2. Using the code provided, would you be able to create a new notebook and retrieve 100 artworks from El Prado? Please, note that you will have to use the property [wdt:P8905](https://www.wikidata.org/wiki/Property:P8905).
 3. Explore new SPARQL queries. Would you be able to use another properties from other institutions? How can you find them?
 4. Try to create some notes as a documentation of the process
 5. Run and explore the notebooks provided in this project: https://github.com/hibernator11/Spanish-Civil-War-KGs
