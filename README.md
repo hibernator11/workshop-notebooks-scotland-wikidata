@@ -23,7 +23,7 @@ Note that in previous years, another project was used as training material: http
 
 All of them retrieve the data using a SPARQL query and store the data in a JSON file.
 
-We can also create visualisations with Wikidata. For example, using a selection of 100 artists from El Prado and nacionalities.
+We can also create visualisations with Wikidata. For example, using a selection of 100 artists from El Prado and nacionalities. You can run the example here https://w.wiki/Hx2M
 
 ```
 #defaultView:Map
@@ -38,7 +38,7 @@ WHERE {
 LIMIT 100
 ```
 
-<img src="https://github.com/hibernator11/workshop-notebooks-scotland-wikidata/raw/main/imagenes/mapa-autores.png" width="60%">
+<img src="https://github.com/hibernator11/workshop-notebooks-scotland-wikidata/raw/main/imagenes/mapa-prado.png" width="60%">
 
 
 ## Tasks
