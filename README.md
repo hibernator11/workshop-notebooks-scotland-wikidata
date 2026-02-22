@@ -23,13 +23,13 @@ Note that in previous years, another project was used as training material: http
 
 All of them retrieve the data using a SPARQL query and store the data in a JSON file.
 
-We can also create visualisations with Wikidata. For example, using a selection of 100 artists from El Prado and nacionalities. You can run the example here https://w.wiki/Hx2M
+We can also create visualisations with Wikidata. For example, using a selection of 100 artists from El Prado and nacionalities. You can run the example here [https://w.wiki/Hx2M](https://w.wiki/Hx2a)
 
 ```
 #defaultView:Map
 SELECT DISTINCT ?author ?authorLabel (SAMPLE(?image) as ?img) ?coord
 WHERE {   
-       ?author wdt:P5321 ?idbvmc.
+       ?author wdt:P5321 ?idprado.
        ?author wdt:P27 ?country .
        ?country wdt:P625 ?coord.
        OPTIONAL {?author wdt:P18 ?image .}      
