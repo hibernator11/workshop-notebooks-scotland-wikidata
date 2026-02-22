@@ -38,7 +38,7 @@ WHERE {
 LIMIT 100
 ```
 
-<img src="https://github.com/hibernator11/workshop-notebooks-scotland-wikidata/raw/main/mapa-prado.png" width="60%">
+<img src="https://github.com/hibernator11/workshop-notebooks-scotland-wikidata/blob/main/map-prado.png?raw=true" width="60%">
 
 
 ## Tasks
