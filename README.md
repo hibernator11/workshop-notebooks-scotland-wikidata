@@ -65,3 +65,4 @@ This work was possible thanks to many researchers, labbers, librarians and initi
 - Candela, G. (2023). Towards a semantic approach in GLAM Labs: The case of the Data Foundry at the National Library of Scotland. Journal of Information Science. https://doi.org/10.1177/01655515231174386
 - Candela, G., Gabriëls, N., Chambers, S., Dobreva, M., Ames, S., Ferriter, M., Fitzgerald, N., Harbo, V., Hofmann, K., Holownia, O., Irollo, A., Mahey, M., Manchester, E., Pham, T.-A., Potter, A., & Van Keer, E. (2023). A checklist to publish collections as data in GLAM institutions. Global Knowledge, Memory and Communication. Advance online publication. https://doi.org/10.1108/GKMC-06-2023-0195
 - https://github.com/hibernator11/hdh-compartir-pantalla-2023
+- https://wikimedia.es/abiertas-las-inscripciones-para-wikidata-en-el-contexto-glam-ii-patrimonio-conectado-en-el-museo-del-prado/
