@@ -23,6 +23,24 @@ Note that in previous years, another project was used as training material: http
 
 All of them retrieve the data using a SPARQL query and store the data in a JSON file.
 
+We can also create visualisations with Wikidata. For example, using a selection of 100 artists from El Prado and nacionalities.
+
+```
+#defaultView:Map
+SELECT DISTINCT ?author ?authorLabel (SAMPLE(?image) as ?img) ?coord
+WHERE {   
+       ?author wdt:P5321 ?idbvmc.
+       ?author wdt:P27 ?country .
+       ?country wdt:P625 ?coord.
+       OPTIONAL {?author wdt:P18 ?image .}      
+    SERVICE wikibase:label { bd:serviceParam wikibase:language "es" }
+} GROUP BY ?author ?authorLabel ?coord
+LIMIT 100
+```
+
+<img src="https://github.com/hibernator11/workshop-notebooks-scotland-wikidata/raw/main/imagenes/mapa-autores.png" width="60%">
+
+
 ## Tasks
 
 1. Review the notebooks provided. Check how the SPARQL queries can be executed and the data retrieved. You can also try using https://query.wikidata.org
