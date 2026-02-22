@@ -55,7 +55,7 @@ LIMIT 100
 Please, note that the datasets used in this project have separate licences.
 
 ## Acknowledgments
-This work was possible thanks to many researchers, labbers, librarians and initiatives from around the world. First of all, I would like to thank Milena Dobreva for inviting me to give this workshop. This work would not have been possible without the help and inspiration of the [International GLAM Labs Community](glamlabs.io), the [Collections as data](https://collectionsasdata.github.io/) initiative, the [National Library of Scotland](https://data.nls.uk/), [Wikimedia Spain](https://wikimedia.es/), the [GLAM Workbench](https://glam-workbench.net/), [DARIAH-EU](https://www.dariah.eu/) and [Europeana Research](https://pro.europeana.eu/page/research).
+This work was possible thanks to many researchers, labbers, librarians and initiatives from around the world. First of all, I would like to thank Milena Dobreva for inviting me to give this workshop. This work would not have been possible without the help and inspiration of the [International GLAM Labs Community](glamlabs.io), the [Collections as data](https://collectionsasdata.github.io/) initiative, the [National Library of Scotland](https://data.nls.uk/), [Wikimedia Spain](https://wikimedia.es/), the [GLAM Workbench](https://glam-workbench.net/) and [DARIAH-EU](https://www.dariah.eu/).
 
 ## References
 - https://data.nls.uk/projects/the-national-librarians-research-fellowship-in-digital-scholarship-2022-23/
